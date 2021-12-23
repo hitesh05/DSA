@@ -1,0 +1,23 @@
+push 10 23
+push 1203 231
+push 2039 123
+inject 231 129
+inject 4598 40
+pop
+eject
+pop
+pop
+pop
+pop
+pop
+pop
+eject
+eject
+push 535 261
+inject 965 9642
+inject 213 9420
+eject
+eject
+eject
+eject
+exit
